@@ -7,7 +7,7 @@ int main ()
     int ODP;
     cin >> X;
     cin >> Y;
-    ODP = X + Y;
+    ODP = X + Y; //dodanie 2 zmiennych
     cout << ODP << endl;
     return 0;
 }

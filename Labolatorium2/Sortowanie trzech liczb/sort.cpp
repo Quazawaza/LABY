@@ -2,70 +2,53 @@
 using namespace std;
 int main()
 {
-    int X;
-    int Y;
-    int Z;
-    int one;
-    int two;
-    int three;
+    int X,Y,Z,one,two,three;
 
-    cin >> X;
-    cin >> Y;
-    cin >> Z; 
+    cin >> X >> Y >> Z;
 
-    if (X > Y)
+    if (X>=Y&&X>=Z) //sprawdzenie czy X jest najwieksze
     {
-        if (X > Z)
+        one=X;
+        if (Y >= Z) //czy Y jest druga najwieksza wartoscia
         {
-            one = X;
-            if (Y > Z)
-            {
-                two = Y;
-                three = Z;
-            }
-            else
-            {
-                two = Z;
-                three = Y;
-            }
-            
+            two=Y;
+            three=Z;
         }
-        else
+        else // jeżeli Y nie jest druga najwieksza wartoscia to jest nia Z
         {
-            one = Z;
+            two = Z;
+            three = Y;
+        }
+    }
+    else if (Y>=X && Y>=Z) //sprawdzenie czy Y jest najwieksza wartoscia
+    {
+        one = Y;
+        if (X >= Z) //sprawdzenie czy X jest druga najwieksza wartoscia
+        {
+            two = X;
+            three = Z;
+        }
+        else // jezeli X nie jest druga najwieksza wartoscia to jest nia Z 
+        {
+            two = Z;
+            three = X;
+        }  
+    }
+    else // Jezeli ani X ani Y nie sa najwieksza wartoscia, to jest nia Z
+    {
+        one = Z;
+        if (X >= Y) //sprawdzenie czy X jest druga najwieksza wartoscia
+        {
             two = X;
             three = Y;
         }
-        
-    }
-    else
-    {
-        if (Y > Z)
+        else //jezeli X nie jest druga najwieksza wartoscia to jest nia Y
         {
-            one = Y;
-            if (Z > X)
-            {
-                two = Z;
-                three = X;
-            }
-            else
-            {
-                two = X;
-                three = Z;
-            }
-            
-            
-        }
-        else
-        {
-            one = Z;
             two = Y;
             three = X;
+
         }
-        
     }
     cout << one << " " << two << " " << three;
     return 0;
-    
-    
 }

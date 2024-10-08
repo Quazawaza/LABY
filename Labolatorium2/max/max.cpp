@@ -9,19 +9,19 @@ int main()
     cin >> C;
     cin >> D;
 
-    if (A>=B && A>=C && A>=D)
+    if (A>=B && A>=C && A>=D) //sprawdzenie czy A jest najwieksze 
     {
         max = A;
     }
-    else if (B>=A && B>=C && B>=D)
+    else if (B>=A && B>=C && B>=D) //sprawdzenie czy B jest najwieksze 
     {
         max = B;
     }
-    else if (C>=A&&C>=B&&C>=D)
+    else if (C>=A&&C>=B&&C>=D) //sprawdzenie czy C jest najwieksze 
     {
         max = C;
     }
-    else
+    else // jeżel żadne z powyższych nie jest najwieksze to najwieksze musi być D
     {
         max = D;
     }
