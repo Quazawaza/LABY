@@ -23,7 +23,7 @@ W tym folderze znajdują się kody do następujących zadań:
 
 W tym folderze znajdują się rozwiązania do następujących zadań
 
--Rysowanie prostokąta
+- Rysowanie prostokąta
 
 ### LABY(ZAJECIA)
 w tym folderze znajdują się rozwiązania do zadań z zajęć, oraz ich wersje zoptymalizowane 
@@ -32,13 +32,13 @@ w tym folderze znajdują się rozwiązania do zadań z zajęć, oraz ich wersje 
 
 W tym folderze znajdują się rozwiązania do zadań:
 
--Sortowanie2
--Podzielnosc23
--Sortowanie3 
+- Sortowanie2
+- Podzielnosc23
+- Sortowanie3
 
 ## Laby2bettersolutions
 
 W tym folderze znajdują się rozwiązania do zadań z zastosowaniem sugestii od prowadzącego
 
--Podzielnosc23
+- Podzielnosc23
 
