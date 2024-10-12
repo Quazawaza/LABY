@@ -36,15 +36,15 @@ int main()
         }
         else if (!podz3 && podz5)
         {
-            cout << "nie podzielna przez 3, podzielna przez 5";
+            cout << "niepodzielna przez 3, podzielna przez 5";
         }
         else if (podz3 && !podz5)
         {
-            cout << "podzielna przez 3, nie podzielna przez 5";
+            cout << "podzielna przez 3, niepodzielna przez 5";
         }
         else
         {
-            cout << "nie podzielna przez 3 i 5";
+            cout << "niepodzielna przez 3 i 5";
         }
         //pozwoliło to nam na zaoszczędzenie paru linijek kodu
     }
