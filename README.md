@@ -24,6 +24,9 @@ W tym folderze znajdują się kody do następujących zadań:
 W tym folderze znajdują się rozwiązania do następujących zadań
 
 - Rysowanie prostokąta
+- modulo
+- suma cyfr
+- problem ulama
 
 ### LABY(ZAJECIA)
 w tym folderze znajdują się rozwiązania do zadań z zajęć, oraz ich wersje zoptymalizowane 
@@ -34,7 +37,8 @@ W tym folderze znajdują się rozwiązania do zadań:
 
 - Sortowanie2
 - Podzielnosc23
-- Sortowanie3
+- Sortowanie4
+- Sortowanie8
 
 ## Laby2bettersolutions
 
