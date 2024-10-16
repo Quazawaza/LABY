@@ -9,38 +9,41 @@ int main() {
     // Wczytywanie liczb od użytkownika
     cin >> a >> b >> c >> d >> e >> f >> g >> h;
 
-    // Etap 1: porównania i zamiany
-    if (a > b) { int temp = a; a = b; b = temp; }
-    if (c > d) { int temp = c; c = d; d = temp; }
-    if (e > f) { int temp = e; e = f; f = temp; }
-    if (g > h) { int temp = g; g = h; h = temp; }
+    // Ręczne porównania i zamiany zmiennych
+    if (a > b) swap(a, b);
+    if (b > c) swap(b, c);
+    if (c > d) swap(c, d);
+    if (d > e) swap(d, e);
+    if (e > f) swap(e, f);
+    if (f > g) swap(f, g);
+    if (g > h) swap(g, h);
 
-    // Etap 2: porównania i zamiany
-    if (a > c) { int temp = a; a = c; c = temp; }
-    if (b > d) { int temp = b; b = d; d = temp; }
-    if (e > g) { int temp = e; e = g; g = temp; }
-    if (f > h) { int temp = f; f = h; h = temp; }
+    if (a > b) swap(a, b);
+    if (b > c) swap(b, c);
+    if (c > d) swap(c, d);
+    if (d > e) swap(d, e);
+    if (e > f) swap(e, f);
+    if (f > g) swap(f, g);
 
-    // Etap 3: porównania i zamiany
-    if (a > e) { int temp = a; a = e; e = temp; }
-    if (b > f) { int temp = b; b = f; f = temp; }
-    if (c > g) { int temp = c; c = g; g = temp; }
-    if (d > h) { int temp = d; d = h; h = temp; }
+    if (a > b) swap(a, b);
+    if (b > c) swap(b, c);
+    if (c > d) swap(c, d);
+    if (d > e) swap(d, e);
+    if (e > f) swap(e, f);
 
-    // Etap 4: porównania i zamiany
-    if (b > c) { int temp = b; b = c; c = temp; }
-    if (d > e) { int temp = d; d = e; e = temp; }
-    if (f > g) { int temp = f; f = g; g = temp; }
+    if (a > b) swap(a, b);
+    if (b > c) swap(b, c);
+    if (c > d) swap(c, d);
+    if (d > e) swap(d, e);
 
-    // Etap 5: porównania i zamiany
-    if (b > d) { int temp = b; b = d; d = temp; }
-    if (c > e) { int temp = c; c = e; e = temp; }
-    if (f > h) { int temp = f; f = h; h = temp; }
+    if (a > b) swap(a, b);
+    if (b > c) swap(b, c);
+    if (c > d) swap(c, d);
 
-    // Etap 6: porównania i zamiany
-    if (c > d) { int temp = c; c = d; d = temp; }
-    if (e > f) { int temp = e; e = f; f = temp; }
-    if (f > g) { int temp = f; f = g; g = temp; }
+    if (a > b) swap(a, b);
+    if (b > c) swap(b, c);
+
+    if (a > b) swap(a, b);
 
     // Wyświetlanie posortowanych liczb
     cout << a << " " << b << " " << c << " " << d << " " << e << " " << f << " " << g << " " << h;
