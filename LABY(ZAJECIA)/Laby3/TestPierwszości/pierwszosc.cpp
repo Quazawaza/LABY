@@ -9,9 +9,10 @@ int main()
     cin >> x;
     for (int i = 2; i < x; i++)
     {
-        if (i%x==0)
+        if (x%i==0)
         {
             first = 0;
+            break;
         }
         else
         {
