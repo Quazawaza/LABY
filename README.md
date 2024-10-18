@@ -46,3 +46,22 @@ W tym folderze znajdują się rozwiązania do zadań z zastosowaniem sugestii od
 
 - Podzielnosc23
 
+## Laby3
+
+W tym folderze znajdują się rozwiązania do zadań:
+- Wypisanie liczb 1
+- Wypisanie liczb 2 
+- Wypisanie liczb 3
+- Największy wspólny dziennik
+- Prosty test pierwszości 
+- Wypisanie ciągu 1
+- Wypisanie ciągu 2
+- Wypisanie ciągu 3
+- Wypisanie ciągu 4
+- Wypisanie ciągu 5
+- Wypisanie ciągu 6
+- Wypisanie ciągu 7
+- Pierwsza liczba która 1
+- Pierwsza liczba która 2
+
+
