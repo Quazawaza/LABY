@@ -63,5 +63,7 @@ W tym folderze znajdują się rozwiązania do zadań:
 - Wypisanie ciągu 7
 - Pierwsza liczba która 1
 - Pierwsza liczba która 2
+- Minimum 1
+- Minimum 2
 
 
