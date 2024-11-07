@@ -27,11 +27,14 @@ W tym folderze znajdują się rozwiązania do następujących zadań
 - modulo
 - suma cyfr
 - problem ulama
+- Minimummaksimum
+- Testowanie trojkatow
+- Dziesietne do rzymskie
 
-### LABY(ZAJECIA)
+## LABY(ZAJECIA)
 w tym folderze znajdują się rozwiązania do zadań z zajęć, oraz ich wersje zoptymalizowane 
 
-## Laby2
+### Laby2
 
 W tym folderze znajdują się rozwiązania do zadań:
 
@@ -40,13 +43,13 @@ W tym folderze znajdują się rozwiązania do zadań:
 - Sortowanie4
 - Sortowanie8
 
-## Laby2bettersolutions
+### Laby2bettersolutions
 
 W tym folderze znajdują się rozwiązania do zadań z zastosowaniem sugestii od prowadzącego
 
 - Podzielnosc23
 
-## Laby3
+### Laby3
 
 W tym folderze znajdują się rozwiązania do zadań:
 - Wypisanie liczb 1
@@ -66,4 +69,5 @@ W tym folderze znajdują się rozwiązania do zadań:
 - Minimum 1
 - Minimum 2
 
-
+### Labolatorium 4
+- skoki w ciągu
