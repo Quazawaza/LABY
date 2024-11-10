@@ -71,3 +71,8 @@ W tym folderze znajdują się rozwiązania do zadań:
 
 ### Labolatorium 4
 - skoki w ciągu
+- Wypisz pierwsze
+
+### Labolatorium 5
+- spr
+- sprstruct
