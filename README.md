@@ -71,7 +71,8 @@ W tym folderze znajdują się rozwiązania do zadań:
 
 ### Labolatorium 4
 - skoki w ciągu
-- Wypisz pierwsze
+- Wypisz pierwsze1
+- Wypisz pierwsze2
 
 ### Labolatorium 5
 - spr
