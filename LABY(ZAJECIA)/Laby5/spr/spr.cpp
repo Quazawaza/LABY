@@ -3,14 +3,13 @@
 
 using namespace std;
 
-int wypisz(const vector<int> &tab, int n)
+void wypisz(const vector<int> &tab, int n)
 {
     for (int i = 0; i < n; i++)
     {
        cout << tab[i] << " "; 
     }
     cout << endl;
-    return 0;
 }
 int liczmin(const vector<int> &tab, int n)
 {
