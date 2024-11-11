@@ -73,6 +73,7 @@ W tym folderze znajdują się rozwiązania do zadań:
 - skoki w ciągu
 - Wypisz pierwsze1
 - Wypisz pierwsze2
+- Gra w zycie 
 
 ### Labolatorium 5
 - spr
