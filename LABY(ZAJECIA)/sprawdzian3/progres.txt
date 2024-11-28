@@ -1,0 +1,4 @@
+119858 Abacki 70 80 90
+109765 Cabacki -20 -10 20
+129889 Fabacki 99.4 100 110
+119288 Robaczewski 50 50 50
